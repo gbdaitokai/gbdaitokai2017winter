@@ -1,14 +1,15 @@
 ## タイトル
 
-AWSの機械学習基盤を使ってみよう
+RDBの２大OSS MySQLとPostgreSQL 比較してみた
 
 ## 登壇者
 
-田中　孝明(@kongmingtrap) / クラスメソッド株式会社
+高橋　一騎 (@ikkitang)
 
 ## 概要
-
-re:Invent 2017で新たに発表された Amazon SageMakerや、Amazon Rekognitionなどを、サンプルなどを交えて紹介したいと思います。
+１年間 JPUG(日本PostgreSQLユーザー会)として
+PostgreSQLに関わってきて、普段業務でMySQLしか使った事無い私が
+結局の所どう違うの、と思って調べた結果について比較してお話させて頂きます。
 
 ***
 
@@ -74,16 +75,15 @@ Mackerel(マカレル)は(株)はてなが提供する、直感的な設定と�
 
 ## タイトル
 
-RDBの２大OSS MySQLとPostgreSQL 比較してみた
+AWSの機械学習基盤を使ってみよう
 
 ## 登壇者
 
-高橋　一騎 (@ikkitang)
+田中　孝明(@kongmingtrap) / クラスメソッド株式会社
 
 ## 概要
-１年間 JPUG(日本PostgreSQLユーザー会)として
-PostgreSQLに関わってきて、普段業務でMySQLしか使った事無い私が
-結局の所どう違うの、と思って調べた結果について比較してお話させて頂きます。
+
+re:Invent 2017で新たに発表された Amazon SageMakerや、Amazon Rekognitionなどを、サンプルなどを交えて紹介したいと思います。
 
 ***
 

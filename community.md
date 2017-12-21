@@ -3,3 +3,4 @@
 * [岡山Rubyコミュニティ](https://okaruby.connpass.com/)
 * [Atlassian ユーザーグループ 中国地方](https://augca.connpass.com/)
 * [GCPUG岡山](https://plus.google.com/communities/115366422273280046817)
+* [岡山Gitユーザ会](https://okagit.github.io/)
